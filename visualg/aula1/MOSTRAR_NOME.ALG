@@ -9,8 +9,8 @@ Var
 
 
 Inicio
-   escreval("O nome do usuario é Fulano")
-   escreval("O nome do usuario é Ciclano")
+   escreval ("O nome do usuario é Fulano")
+   escreval ("O nome do usuario é Ciclano")
 
 
 Fimalgoritmo
